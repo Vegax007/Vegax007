@@ -1,9 +1,9 @@
 <h1 align="center">Hello there 👋, I'm David Vega</h1>
 <h3 align="center">"You'll find I'm full of surprises."</h3>
 
-- ​👓​ im studying **Mechatronics Engineering**
+- ​👓​ Im Studying **Mechatronics Engineering**
 
-- 📚​ university **EAN**
+- 📚​ University **EAN**
 
 - 📫 How to reach me **davidcvegam@gmail.com**
 
